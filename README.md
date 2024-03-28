@@ -12,5 +12,3 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ### ✉️ Mail me: serhii13herychfrontend@gmail.com
 #
-> Talk is cheap. Show me the code. <br/>
-> ***Linus Torvalds***

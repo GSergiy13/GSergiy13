@@ -1,5 +1,5 @@
 # 👋🏻 Hi, my name is **Serhii Herych**!
-## I'm a *Front-End Engineer* from Cherkasy.
+## I'm a *Front-End Engineer* from Cherkasy(Kyiv).
 ### Check my website: [gsergiy13.github.io](https://gsergiy13.github.io/)
 ### Languages and Technologies 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)

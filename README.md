@@ -1,4 +1,4 @@
-# 👋🏻 Hi, my name is **Serhii Herych**!
+# 👋🏻 Hi, my name is **Serhii**!
 ## I'm a *Front-End Engineer* from Cherkasy(Kyiv).
 ### Check my website: [gsergiy13.github.io](https://gsergiy13.github.io/)
 ### Languages and Technologies 
